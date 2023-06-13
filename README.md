@@ -23,18 +23,16 @@
 
 1. 저장소 복제:
 ``` git clone https://github.com/your-username/peer-tutoring-website.git ```
-
-
 2. 프로젝트 디렉토리로 이동:
-
+``` cd peer-tutoring-website ```
 3. 프로젝트 종속성 설치:
-
+``` pip install -r requirements.txt ```
 4. 데이터베이스 설정:
-
+``` python manage.py migrate ```
 5. 슈퍼유저 계정 생성:
-
+``` python manage.py createsuperuser ```
 6. 개발 서버 실행:
-
+``` python manage.py runserver ```
 7. 웹 브라우저를 열고 `http://localhost:8000`에 접속하여 피어 튜터링 웹사이트에 접속할 수 있습니다.
 
 ## 기여
