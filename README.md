@@ -54,5 +54,4 @@
 피어 튜터링 웹사이트에 관한 질문이나 제안 사항이 있으시면 [이메일 주소 또는 연락처 정보]로 연락해 주세요.
 피어 튜터링 웹사이트를 이용해 주셔서 감사합니다! 학업 지원을 필요로 하는 학생들과 자신의 지식과 전문성을 공유하고자 하는 피어 튜터들에게 가치 있는 플랫폼이 되길 바랍니다.
 
-![kookmin.jpg](https://github.com/nukktae/adproject/issues/3#issue-1754631905))
-https://github.com/nukktae/adproject/issues/3#issue-1754631905
+![image](https://github.com/nukktae/adproject/assets/48114488/6c6f32c5-5257-48ae-a3fe-05668ad0df9f)
