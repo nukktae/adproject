@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Learning HTML</title>
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+</head>
+<body class="notes">
+
+<H2>HTML Tips</H2>
+
+HTML is the acronym of Hyper Text Markup Language which is a language for specifying the content and structure of a web
+page.
+
+<ul>
+    <li>In HTML5, an HTML document should start with <code> &lt;!DOCTYPE HTML&gt; </code></li>
+    <br>
+    <li>
+        The Head should contain
+        <ol>
+            <li>Title - Gives a title and maximizes the find-ability of the page by search engines</li>
+            <li>Style - Defines an internal CSS sheet</li>
+            <li>Link - Links this page with an external CSS document</li>
+            <li>Title - Gives information about this page so its maximizes its find-ability by search engines</li>
+        </ol>
+        <br>
+    <li>The body can contain all the other elements of an HTML document like text, images, links, etc.</li>
+    <br>
+    <li>The footer can contain elements like authorship, copyright, contact and etc.</li>
+    <br>
+    <li>
+        Useful HTML Tags
+        <ul>
+            <li>
+                <dl>
+                    <dt>&lt;head&gt; == used for the head of the html page</dt>
+                    <dd><code>&lt;head&gt;
+                        &lt;title&gt;First website&lt;/title&gt;
+                        &lt;meta charset="UTF-8"&gt;
+                        &lt;/head&gt;</code></dd>
+                </dl>
+            </li>
+            <li>
+                <dl>
+                    <dt>&lt;body&gt; == used for the body of the html page</dt>
+                    <dd><code>&lt;body id="body"&gt; &lt;div&gt;welcome to my webpage &lt;/div&gt; &lt;/body&gt;</code>
+                    </dd>
+                </dl>
+            </li>
+            ...
+            (rest of the HTML code)
+            ...
+        </ul>
+    </li>
+</ul>
+</body>
+</html>
