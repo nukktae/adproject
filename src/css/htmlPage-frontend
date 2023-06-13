@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Learning HTML</title>
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+</head>
+<body class="notes">
+
+<H2>HTML Tips</H2>
+
+HTML is the acronym of Hyper Text Markup Language which is a language for specifying the content and structure of a web
+page.
+
+<ul>
+    <li>In HTML5, an HTML document should start with <code>&lt;!DOCTYPE HTML&gt;</code></li>
+    <!-- Rest of the HTML content -->
+</ul>
+
+</body>
+</html>
