@@ -22,6 +22,8 @@
 피어 튜터링 웹사이트를 로컬 환경에서 설치하려면 다음 단계를 따르세요:
 
 1. 저장소 복제:
+git clone https://github.com/your-username/peer-tutoring-website.git
+
 
 2. 프로젝트 디렉토리로 이동:
 
