@@ -12,7 +12,7 @@
 
 ## 사용된 기술
 
-- 프론트엔드: HTML, CSS, JavaScript
+- 프론트엔드: HTML, CSS, Python/JavaScript
 - 백엔드: Python
 - 프레임워크: Django
 - 데이터베이스: PostgreSQL
